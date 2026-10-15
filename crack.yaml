@@ -1,0 +1,7 @@
+path: ./crack_demo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: crack
+  1: dent

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+runs/
+.env
+.env.*
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
